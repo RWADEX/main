@@ -1,5 +1,3 @@
-ご提示いただいた.gitignoreファイルは、より広範な不要ファイルをカバーしています。既存の.gitignoreファイルの内容をベースに、マージして更新した.gitignoreファイルを以下に作成します。
-
 # dependencies
 node_modules
 jspm_packages/
